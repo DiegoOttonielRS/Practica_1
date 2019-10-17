@@ -1,0 +1,34 @@
+body {
+	background-color: tomato;
+}
+
+h1   {
+	font-size: 20px; 
+	color: white;
+}
+
+h2   {
+	font-size: 30px; 
+	color: black;
+}
+
+h3   {
+	font-size: 10px; 
+	color: yellow;
+}
+
+h4   {
+	font-size: 30px; 
+	color: red;
+}
+
+h5   {
+	font-size: 70px; 
+	color: blue;
+}
+
+p    {color: red;}
+
+.h{
+	color:red;
+}
